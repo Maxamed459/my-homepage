@@ -1,0 +1,28 @@
+@media screen and (max-width: 767px){
+    #header{
+      margin-bottom: 6rem;
+    }
+    .user{
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+    }
+    .text{
+        text-align: center;
+    }
+    .btn{
+        margin-left: 100px;
+    }
+    #desctop-nav{
+        display: none;
+    }
+    #hamburgar-nav{
+        display: flex;
+    }
+    .row{
+      margin: 10%;
+    }
+    .about-col-1 .mg{
+      width: 350px;
+    }
+  }

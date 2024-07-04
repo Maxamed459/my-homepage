@@ -1,0 +1,23 @@
+<!-- 10 HTML tags -->
+
+1.<title></title>
+2.<html></html>
+3.<head></head>
+4.<body></body>
+5.<p></p>
+6.<div></div>
+7.<button></button>
+8.<h1></h1>
+9.<nav></nav>
+10.<li></li>
+
+-----------------------------------------------------------------------------------------------------------------
+
+/* 5 CSS properties */
+
+1.width: ;
+2.height: ;
+3.display: ;
+4.background-color: ;
+5.margin: ;
+
